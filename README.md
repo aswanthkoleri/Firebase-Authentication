@@ -1,4 +1,4 @@
-# Firebase-Authenthication
+# Firebase-Authentication
 A simple implementation of Firebase Authentication
 
 # How to run
